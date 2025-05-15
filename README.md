@@ -58,20 +58,6 @@ Always eager to learn new tools and improve my skills by working on real-world p
 
 ---
 
-## 🚀 Projects
+## 📫 eerinessofsilence@gmail.com
 
-- **[Project 1](https://github.com/your-username/project1)** – REST API for a blogging platform built with Django Rest Framework and PostgreSQL.
-- **[Project 2](https://github.com/your-username/project2)** – Responsive website using Django templates, Bootstrap, and vanilla JS.
-- **[Project 3](https://github.com/your-username/project3)** – Simple task manager app with user authentication and CRUD operations.
-
----
-
-## 📫 Contacts
-
-- 📧 your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 🌐 [Portfolio](https://your-portfolio.com)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eerinessofsilence&show_icons=true&theme=radical)
