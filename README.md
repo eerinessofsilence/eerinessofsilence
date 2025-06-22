@@ -58,6 +58,6 @@ Always eager to learn new tools and improve my skills by working on real-world p
 
 ---
 
-## 📫 eerinessofsilence@gmail.com
+## 📫 eerinessbusiness@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eerinessofsilence&show_icons=true&theme=radical)
