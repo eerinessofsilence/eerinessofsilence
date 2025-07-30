@@ -1,9 +1,9 @@
 # 👋 About Me
+I'm a backend developer with a focus on writing clean, efficient, and scalable applications using Rust, Python, and Java.
+I have solid experience with Django, PostgreSQL, and Redis, and I enjoy building robust RESTful APIs and integrating services using Docker.
+While backend is my main domain, I’m comfortable working across the stack, using HTML, CSS, and JavaScript when needed.
 
-I'm a Junior Python Back-End Developer passionate about building clean, scalable, and efficient web applications.  
-I enjoy working with Django and PostgreSQL, creating REST APIs and integrating front-end technologies like HTML, CSS, JavaScript, and Bootstrap to deliver seamless user experiences.  
-
-Always eager to learn new tools and improve my skills by working on real-world projects.
+Always learning, always building — I like working on real-world problems, exploring modern tools, and pushing code that matters.
 
 ---
 
@@ -16,6 +16,10 @@ Always eager to learn new tools and improve my skills by working on real-world p
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="" height="48" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
       <br>HTML5
     </td>
@@ -24,18 +28,18 @@ Always eager to learn new tools and improve my skills by working on real-world p
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" alt="Django" width="" height="48" />
-      <br>Django
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
@@ -48,10 +52,6 @@ Always eager to learn new tools and improve my skills by working on real-world p
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
       <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="48" height="48" />
-      <br>GH Actions
     </td>
   </tr>
 </table>
