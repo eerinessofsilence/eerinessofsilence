@@ -1,7 +1,7 @@
 ## About Me
-Junior Full-Stack Developer
+Full-Stack Developer
 
-Python • React • Node.js • PostgreSQL
+Python • Django • React • PostgreSQL
 
 I build full-stack web applications and REST APIs.
 Focused on clean architecture, scalable backend systems and modern web technologies.
